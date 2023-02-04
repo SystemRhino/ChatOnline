@@ -1,8 +1,8 @@
 <?php
   $hostname = "localhost";
-  $username = "id20249541_cnweb";
-  $password = "FY{0ZmnUGvVX&r]P";
-  $dbname = "id20249541_chatapp";
+  $username = "user";
+  $password = "";
+  $dbname = "dbname";
 
   $conn = mysqli_connect($hostname, $username, $password, $dbname);
   if(!$conn){
