@@ -22,7 +22,11 @@ Diga como essa etapa será:
 ```
 1. Depois de baixado, basta extrair o arquivo zip e você verá o nome da pasta com o ChatOnline. Copie esta pasta e cole-a dentro da pasta htdocs do seu XAMPP e inicie seu apache e MySQL no painel de controle do XAMMP.
 
-2. Vá para o seu navegador e abra este URL localhost/phpmyadmin e crie um novo nome de banco de dados com um chatapp. Depois de criar o banco de dados, você verá uma opção de importação, basta clicar nela e importar o arquivo SQL que está na pasta ChatApp. Tudo está feito agora, basta abrir esta URL localhost/chatapp é isso.
+2. Vá para o seu navegador e abra este URL localhost/phpmyadmin e crie um novo nome de banco de dados com um chatapp. 
+
+3. Depois de criar o banco de dados, você verá uma opção de importação, basta clicar nela e importar o arquivo SQL que está na pasta ChatApp. 
+
+4. Tudo está feito agora, basta abrir esta URL localhost/chatapp é isso.
 
 ```
 
