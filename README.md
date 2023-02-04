@@ -27,4 +27,4 @@ Diga como essa etapa será:
 ```
 
 ---
-By [Armstrong Lohãns](https://gist.github.com/Systemrhino) 
+By [System Rhino](https://gist.github.com/Systemrhino) 
