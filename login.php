@@ -9,7 +9,7 @@
 <body>
   <div class="wrapper">
     <section class="form login">
-      <header><img src="chat-icon.png" width="10%"> Cabaré Chat</header>
+      <header><img src="chat-icon.png" width="10%"> SystemRhino Chat</header>
       <form action="#" method="POST" enctype="multipart/form-data" autocomplete="off">
         <div class="error-text"></div>
         <div class="field input">
