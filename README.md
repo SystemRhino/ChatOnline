@@ -2,8 +2,7 @@
 
 Chat Online para bate papo
 
-<img src="https://uploaddeimagens.com.br/images/004/330/536/full/users.png?1675624686" width="500" height="400"> 
-<img src="https://uploaddeimagens.com.br/images/004/330/538/thumb/login.png?1675624831" width="200" height="100"><img src="https://uploaddeimagens.com.br/images/004/330/539/thumb/cadastro.png?1675624980" width="200" height="100">
+<img src="https://uploaddeimagens.com.br/images/004/330/536/full/users.png?1675624686" width="300" height="200"> <img src="https://uploaddeimagens.com.br/images/004/330/538/thumb/login.png?1675624831" width="300" height="200"> <img src="https://uploaddeimagens.com.br/images/004/330/539/thumb/cadastro.png?1675624980" width="300" height="200">
 
 
 ## 🚀 Começando
