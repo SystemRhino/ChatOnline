@@ -2,7 +2,7 @@
 
 Chat Online para bate papo
 
-<img src="https://uploaddeimagens.com.br/images/004/330/536/full/users.png?1675624686" width="200" height="100">
+<img src="https://uploaddeimagens.com.br/images/004/330/536/full/users.png?1675624686" width="500" height="400">
 
 ## 🚀 Começando
 
