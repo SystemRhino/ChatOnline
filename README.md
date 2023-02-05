@@ -2,6 +2,8 @@
 
 Chat Online para bate papo
 
+<img src="https://uploaddeimagens.com.br/images/004/330/536/full/users.png?1675624686">
+
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
